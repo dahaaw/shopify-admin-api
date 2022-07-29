@@ -1,0 +1,6 @@
+HOST=127.0.0.1
+PORT=3000
+
+SHOPIFY_URL=https://xxxxxxxx.myshopify.com
+SHOPIFY_TOKEN=xxxxxxxxxxxx
+API_VERSION=2022-07
