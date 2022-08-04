@@ -8,6 +8,6 @@ module.exports = ( productID, collectionID ) => {
             collection_id: collectionID
         }
     }
-    const fetched = fetch( 'post', `/admin/api/${ API_VERSION }/collects.json`, request );
+    const fetched = fetch( 'post', `/collects.json`, request );
     return fetched;
 }

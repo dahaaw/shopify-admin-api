@@ -1,5 +1,5 @@
 const fetch = require('node-fetch');
-const { SHOPIFY_URL, SHOPIFY_TOKEN } = process.env;
+const { API_VERSION, SHOPIFY_URL, SHOPIFY_TOKEN } = process.env;
 
 
 module.exports = async ( method, url, body ) => {
@@ -12,7 +12,8 @@ module.exports = async ( method, url, body ) => {
     }
     if ( body ) request.body = JSON.stringify( body );
 
-    const response = await fetch( SHOPIFY_URL + url, request);
+    const response = await fetch( SHOPIFY_URL + `/admin/api/${ API_VERSION }/` + url, request);
+    console.log(SHOPIFY_URL + `/admin/api/${ API_VERSION }/` + url, request);
     console.log({SHOPIFY_TOKEN, SHOPIFY_URL, url, method})
     return response;
 

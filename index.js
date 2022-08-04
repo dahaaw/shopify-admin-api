@@ -5,9 +5,10 @@ dotenv.config();
 const {HOST,PORT} = process.env;
 const app = express();
 
+const controllers = require( './controllers' );
 const services = require( './services' );
 
-app.get('/', (req, res) => {});
+app.get('/clone/:id', controllers.products.simpleClone );
 
 app.get('/assign', async (req, res) => {
     const sourceCollectionID = '';
