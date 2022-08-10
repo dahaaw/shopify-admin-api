@@ -15,6 +15,7 @@ module.exports = async ( method, url, body ) => {
     const response = await fetch( SHOPIFY_URL + `/admin/api/${ API_VERSION }/` + url, request);
     console.log(SHOPIFY_URL + `/admin/api/${ API_VERSION }/` + url, request);
     console.log({SHOPIFY_TOKEN, SHOPIFY_URL, url, method})
+    if ( request.body ) console.log( {body: request.body} );
     return response;
 
 }

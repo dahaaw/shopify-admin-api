@@ -9,6 +9,7 @@ const controllers = require( './controllers' );
 const services = require( './services' );
 
 app.get('/orders/archived', controllers.orders.setArchived );
+app.get('/orders/fulfilled', controllers.orders.fulfilled );
 
 app.get('/clone/:id', controllers.products.simpleClone );
 
