@@ -8,6 +8,8 @@ const app = express();
 const controllers = require( './controllers' );
 const services = require( './services' );
 
+app.get('/orders/archived', controllers.orders.setArchived );
+
 app.get('/clone/:id', controllers.products.simpleClone );
 
 app.get('/assign', async (req, res) => {
@@ -16,9 +18,12 @@ app.get('/assign', async (req, res) => {
     
     let data = await services.product.getProductByCollection( sourceCollectionID, 250 );
     data = await data.json();
-    let logText = '';
+    let logText = `// ${ sourceCollectionID } to ${ destinationCollectionID }`;
 
+    let ke = 0;
     for (const product of data.products) {
+        ke++;
+        console.log({ke})
         const productID = product.id;
         let assign = await services.product.assingToCollection( productID, destinationCollectionID );
         assign = await assign.json();
@@ -33,6 +38,7 @@ ${ JSON.stringify( assign.errors, null, 3 )}`;
     }
 
     services.logs.write( 'assign_product_to_collection', logText );
+    console.log({done:'done'})
     res.json({data: 'ok'});
 });
 
