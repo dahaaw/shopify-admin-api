@@ -11,6 +11,7 @@ const services = require( './services' );
 app.get('/orders/archived', controllers.orders.setArchived );
 app.get('/orders/fulfilled', controllers.orders.fulfilled );
 
+app.get('/product/checktahormainlink', controllers.products.checktahormainlink );
 app.get('/clone/:id', controllers.products.simpleClone );
 
 app.get('/assign', async (req, res) => {
