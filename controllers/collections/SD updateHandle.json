@@ -1,0 +1,422 @@
+[
+  {
+    "FROM": "color",
+    "TO": "shop-by-dress-color"
+  },
+  {
+    "FROM": "chocolate-dresses",
+    "TO": "brown-dresses"
+  },
+  {
+    "FROM": "silver-dresses",
+    "TO": "gray-and-silver-dresses"
+  },
+  {
+    "FROM": "white-dresses",
+    "TO": "ivory-and-white-dresses"
+  },
+  {
+    "FROM": "dress_by_event",
+    "TO": "shop-dresses-by-occasion"
+  },
+  {
+    "FROM": "bar-mitzvah",
+    "TO": "bar-and-bat-mitzvah-dresses"
+  },
+  {
+    "FROM": "bridal",
+    "TO": "bridal-dresses"
+  },
+  {
+    "FROM": "bridesmaid",
+    "TO": "dresses-for-bridesmaids"
+  },
+  {
+    "FROM": "cruise",
+    "TO": "dresses-for-cruises"
+  },
+  {
+    "FROM": "formal_dance",
+    "TO": "long-formal-dresses"
+  },
+  {
+    "FROM": "gala",
+    "TO": "gala-dresses"
+  },
+  {
+    "FROM": "graduation",
+    "TO": "dresses-for-graduations"
+  },
+  {
+    "FROM": "holiday",
+    "TO": "holiday-party-dresses"
+  },
+  {
+    "FROM": "homecoming",
+    "TO": "homecoming-dresses"
+  },
+  {
+    "FROM": "long-prom",
+    "TO": "long-dresses-for-prom"
+  },
+  {
+    "FROM": "military_ball",
+    "TO": "military-ball-dresses"
+  },
+  {
+    "FROM": "mother_of_bride",
+    "TO": "mother-of-the-bride-dresses"
+  },
+  {
+    "FROM": "pageant-dresses",
+    "TO": "dresses-for-pageants"
+  },
+  {
+    "FROM": "party-dresses",
+    "TO": "short-party-dresses"
+  },
+  {
+    "FROM": "prom",
+    "TO": "prom-dresses"
+  },
+  {
+    "FROM": "reception",
+    "TO": "wedding-reception-dresses"
+  },
+  {
+    "FROM": "rehearsal-dinner",
+    "TO": "wedding-rehearsal-dresses"
+  },
+  {
+    "FROM": "semi-formal",
+    "TO": "semi-formal-dresses"
+  },
+  {
+    "FROM": "short-prom",
+    "TO": "short-dresses-for-prom"
+  },
+  {
+    "FROM": "sweet-16",
+    "TO": "dresses-for-sweet-16"
+  },
+  {
+    "FROM": "wedding_guest",
+    "TO": "dresses-for-wedding-guests"
+  },
+  {
+    "FROM": "new-arrivals",
+    "TO": "new-arrival-dresses"
+  },
+  {
+    "FROM": "promdresses-by-price",
+    "TO": "shop-dresses-by-price"
+  },
+  {
+    "FROM": "promdresses-100-200",
+    "TO": "dresses-priced-100-200"
+  },
+  {
+    "FROM": "promdresses-200-300",
+    "TO": "dresses-priced-200-300"
+  },
+  {
+    "FROM": "promdresses-300-400",
+    "TO": "dresses-priced-300-400"
+  },
+  {
+    "FROM": "promdresses-under-100",
+    "TO": "dresses-under-100"
+  },
+  {
+    "FROM": "under-50",
+    "TO": "dresses-under-50"
+  },
+  {
+    "FROM": "styles_and_trends",
+    "TO": "shop-dresses-by-style"
+  },
+  {
+    "FROM": "a_line",
+    "TO": "a-line-dresses"
+  },
+  {
+    "FROM": "babydoll",
+    "TO": "babydoll-dresses"
+  },
+  {
+    "FROM": "ball_gowns",
+    "TO": "ball-gowns"
+  },
+  {
+    "FROM": "budget-dresses",
+    "TO": "formal-dresses-under-200"
+  },
+  {
+    "FROM": "career",
+    "TO": "shop-dresses-by-style"
+  },
+  {
+    "FROM": "classic-prom",
+    "TO": "classic-prom-dresses"
+  },
+  {
+    "FROM": "empire_waist",
+    "TO": "empire-waist-dresses"
+  },
+  {
+    "FROM": "halter",
+    "TO": "halter-dresses"
+  },
+  {
+    "FROM": "high-low",
+    "TO": "high-low-dresses"
+  },
+  {
+    "FROM": "illusion",
+    "TO": "illusion-dresses"
+  },
+  {
+    "FROM": "knee-length",
+    "TO": "knee-length-dresses"
+  },
+  {
+    "FROM": "lace",
+    "TO": "dresses-with-lace"
+  },
+  {
+    "FROM": "little-black-dresses",
+    "TO": "black-cocktail-dresses"
+  },
+  {
+    "FROM": "long",
+    "TO": "long-dresses"
+  },
+  {
+    "FROM": "low-v-neck",
+    "TO": "deep-v-neck-dresses"
+  },
+  {
+    "FROM": "lwd",
+    "TO": "short-white-dresses"
+  },
+  {
+    "FROM": "mermaid",
+    "TO": "mermaid-dresses"
+  },
+  {
+    "FROM": "off-the-shoulder",
+    "TO": "off-the-shoulder-dresses"
+  },
+  {
+    "FROM": "one_shoulder",
+    "TO": "one-shoulder-dresses"
+  },
+  {
+    "FROM": "open_back",
+    "TO": "open-back-dresses"
+  },
+  {
+    "FROM": "pastel",
+    "TO": "pastel-dresses"
+  },
+  {
+    "FROM": "pockets",
+    "TO": "dresses-with-pockets"
+  },
+  {
+    "FROM": "prints",
+    "TO": "dresses-with-prints"
+  },
+  {
+    "FROM": "sequins",
+    "TO": "sequin-dresses"
+  },
+  {
+    "FROM": "shimmer",
+    "TO": "shimmer-dresses"
+  },
+  {
+    "FROM": "sleek-and-sexy",
+    "TO": "sleek-dresses"
+  },
+  {
+    "FROM": "sleeves",
+    "TO": "dresses-with-sleeves"
+  },
+  {
+    "FROM": "strapless",
+    "TO": "strapless-dresses"
+  },
+  {
+    "FROM": "sweetheart",
+    "TO": "sweetheart-neckline-dresses"
+  },
+  {
+    "FROM": "two-piece",
+    "TO": "two-piece-dresses"
+  },
+  {
+    "FROM": "v-neck",
+    "TO": "v-neck-dresses"
+  },
+  {
+    "FROM": "trending",
+    "TO": "new-arrival-dresses"
+  },
+  {
+    "FROM": "viewall",
+    "TO": "dresses"
+  },
+  {
+    "FROM": "plus-size-prom-dress",
+    "TO": "shop-plus-dresses-by-type"
+  },
+  {
+    "FROM": "plus-closeouts",
+    "TO": "plus-size-sale-dresses"
+  },
+  {
+    "FROM": "plus-cocktail",
+    "TO": "plus-size-cocktail-dresses"
+  },
+  {
+    "FROM": "plus-color",
+    "TO": "shop-plus-dresses-by-color"
+  },
+  {
+    "FROM": "black-plus",
+    "TO": "black-plus-size-dresses"
+  },
+  {
+    "FROM": "blue-plus",
+    "TO": "blue-plus-size-dresses"
+  },
+  {
+    "FROM": "green-plus",
+    "TO": "green-plus-size-dresses"
+  },
+  {
+    "FROM": "neutral-plus",
+    "TO": "neutral-plus-size-dresses"
+  },
+  {
+    "FROM": "pink-plus",
+    "TO": "pink-plus-size-dresses"
+  },
+  {
+    "FROM": "purple-plus",
+    "TO": "purple-plus-size-dresses"
+  },
+  {
+    "FROM": "red-plus",
+    "TO": "red-plus-size-dresses"
+  },
+  {
+    "FROM": "silver-plus",
+    "TO": "silver-plus-size-dresses"
+  },
+  {
+    "FROM": "white-plus",
+    "TO": "white-plus-size-dresses"
+  },
+  {
+    "FROM": "plus-event",
+    "TO": "shop-plus-dresses-by-occasion"
+  },
+  {
+    "FROM": "formal-dance-plus",
+    "TO": "formal-plus-size-dresses"
+  },
+  {
+    "FROM": "graduation-plus",
+    "TO": "graduation-plus-size-dresses"
+  },
+  {
+    "FROM": "holiday-plus",
+    "TO": "holiday-plus-size-dresses"
+  },
+  {
+    "FROM": "homecoming-plus",
+    "TO": "homecoming-plus-size-dresses"
+  },
+  {
+    "FROM": "party-plus",
+    "TO": "party-plus-size-dresses"
+  },
+  {
+    "FROM": "plus-wedding-guests",
+    "TO": "wedding-guest-plus-size-dresses"
+  },
+  {
+    "FROM": "prom-plus",
+    "TO": "prom-plus-size-dresses"
+  },
+  {
+    "FROM": "plus-styles",
+    "TO": "shop-plus-dresses-by-style"
+  },
+  {
+    "FROM": "plus-a-line",
+    "TO": "a-line-plus-size-dresses"
+  },
+  {
+    "FROM": "plus-ballgowns",
+    "TO": "plus-size-ball-gowns"
+  },
+  {
+    "FROM": "plus-empire-waist",
+    "TO": "empire-waist-plus-size-dresses"
+  },
+  {
+    "FROM": "plus-halter",
+    "TO": "halter-plus-size-dresses"
+  },
+  {
+    "FROM": "plus-lace",
+    "TO": "lace-plus-size-dresses"
+  },
+  {
+    "FROM": "plus-long-dresses",
+    "TO": "long-plus-size-dresses"
+  },
+  {
+    "FROM": "plus-mermaid",
+    "TO": "mermaid-plus-size-dresses"
+  },
+  {
+    "FROM": "plus-print",
+    "TO": "print-plus-size-dresses"
+  },
+  {
+    "FROM": "plus-sequins",
+    "TO": "sequin-plus-size-dresses"
+  },
+  {
+    "FROM": "plus-sexy",
+    "TO": "sexy-plus-size-dresses"
+  },
+  {
+    "FROM": "plus-short-dresses",
+    "TO": "short-plus-size-dresses"
+  },
+  {
+    "FROM": "plus-sleeves",
+    "TO": "plus-size-dresses-with-sleeves"
+  },
+  {
+    "FROM": "plus-strapless",
+    "TO": "strapless-plus-size-dresses"
+  },
+  {
+    "FROM": "plus-sweetheart",
+    "TO": "sweetheart-plus-size-dresses"
+  },
+  {
+    "FROM": "plusview_all",
+    "TO": "dresses-in-plus-sizes"
+  },
+  {
+    "FROM": "sales",
+    "TO": "sale-dresses"
+  }
+]

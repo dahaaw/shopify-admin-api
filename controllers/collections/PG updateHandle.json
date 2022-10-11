@@ -1,0 +1,586 @@
+[
+    {
+      "FROM": "accessories",
+      "TO": "prom-accessories"
+    },
+    {
+      "FROM": "body_types",
+      "TO": "shop-dresses-by-body-types"
+    },
+    {
+      "FROM": "apple",
+      "TO": "dresses-for-apple-shaped-figures"
+    },
+    {
+      "FROM": "busty",
+      "TO": "dresses-for-busty-figures"
+    },
+    {
+      "FROM": "hourglass",
+      "TO": "dresses-for-hourglass-figures"
+    },
+    {
+      "FROM": "pear_shaped",
+      "TO": "dresses-for-pear-shaped-figures"
+    },
+    {
+      "FROM": "petite",
+      "TO": "dresses-for-petite-figures"
+    },
+    {
+      "FROM": "slender",
+      "TO": "dresses-for-slender-figures"
+    },
+    {
+      "FROM": "closeouts",
+      "TO": "dresses-on-sale"
+    },
+    {
+      "FROM": "lastchance",
+      "TO": "last-chance-sale-dresses"
+    },
+    {
+      "FROM": "color-dresses",
+      "TO": "shop-dresses-by-color"
+    },
+    {
+      "FROM": "nude-dresses",
+      "TO": "nude-and-neutral-dresses"
+    },
+    {
+      "FROM": "silver-dresses",
+      "TO": "gray-and-silver-dresses"
+    },
+    {
+      "FROM": "white-dresses",
+      "TO": "ivory-and-white-dresses"
+    },
+    {
+      "FROM": "shoes-colors",
+      "TO": "shop-prom-shoes-by-color"
+    },
+    {
+      "FROM": "black-shoes",
+      "TO": "black-prom-shoes"
+    },
+    {
+      "FROM": "clear-shoes",
+      "TO": "clear-prom-shoes"
+    },
+    {
+      "FROM": "gold-shoes",
+      "TO": "gold-prom-shoes"
+    },
+    {
+      "FROM": "silver-shoes",
+      "TO": "silver-prom-shoes"
+    },
+    {
+      "FROM": "white-shoes",
+      "TO": "white-prom-shoes"
+    },
+    {
+      "FROM": "dress_by_event",
+      "TO": "shop-dresses-by-event"
+    },
+    {
+      "FROM": "after-prom",
+      "TO": "after-prom-dresses"
+    },
+    {
+      "FROM": "bar-mitzvah",
+      "TO": "bat-and-bar-mitzvah-dresses"
+    },
+    {
+      "FROM": "bridal",
+      "TO": "prom-wedding-dresses"
+    },
+    {
+      "FROM": "bridesmaid",
+      "TO": "bridesmaid-dresses"
+    },
+    {
+      "FROM": "cruise",
+      "TO": "cruise-dresses"
+    },
+    {
+      "FROM": "formal-dance",
+      "TO": "formal-dance-dresses"
+    },
+    {
+      "FROM": "graduation",
+      "TO": "graduation-dresses"
+    },
+    {
+      "FROM": "holiday",
+      "TO": "holiday-dresses"
+    },
+    {
+      "FROM": "homecoming",
+      "TO": "homecoming-dresses"
+    },
+    {
+      "FROM": "long-prom",
+      "TO": "long-prom-dresses"
+    },
+    {
+      "FROM": "military_ball",
+      "TO": "military-ball-dresses"
+    },
+    {
+      "FROM": "mother_of_bride_groom",
+      "TO": "mother-bride-groom-dresses"
+    },
+    {
+      "FROM": "prom",
+      "TO": "prom-dresses"
+    },
+    {
+      "FROM": "quinceanera-court",
+      "TO": "quinceanera-court-dresses"
+    },
+    {
+      "FROM": "reception",
+      "TO": "white-reception-dresses"
+    },
+    {
+      "FROM": "rehearsal-dinner",
+      "TO": "rehearsal-dinner-dresses"
+    },
+    {
+      "FROM": "semi-formal",
+      "TO": "semi-formal-dresses"
+    },
+    {
+      "FROM": "short-prom",
+      "TO": "short-prom-dresses"
+    },
+    {
+      "FROM": "sweet-16",
+      "TO": "sweet-16-dresses"
+    },
+    {
+      "FROM": "wedding_guest",
+      "TO": "wedding-guest-dresses"
+    },
+    {
+      "FROM": "winter-formal",
+      "TO": "winter-formal-dresses"
+    },
+    {
+      "FROM": "new-arrivals-new-prom-dresses-party-dresses",
+      "TO": "latest-dresses"
+    },
+    {
+      "FROM": "gown-by-manufacturer",
+      "TO": "shop-dresses-by-designer"
+    },
+    {
+      "FROM": "alyce-designs",
+      "TO": "dresses-by-alyce-paris"
+    },
+    {
+      "FROM": "blush",
+      "TO": "dresses-by-blush"
+    },
+    {
+      "FROM": "daveandjohnny",
+      "TO": "dresses-by-dave-and-johnny"
+    },
+    {
+      "FROM": "emerald-sundae",
+      "TO": "dresses-by-emerald-sundae"
+    },
+    {
+      "FROM": "faviana",
+      "TO": "dresses-by-faviana"
+    },
+    {
+      "FROM": "jovani",
+      "TO": "dresses-by-jovani"
+    },
+    {
+      "FROM": "jump",
+      "TO": "dresses-by-jump"
+    },
+    {
+      "FROM": "jvn-jovani",
+      "TO": "dresses-from-jvn-by-jovani"
+    },
+    {
+      "FROM": "la-femme",
+      "TO": "dresses-by-la-femme"
+    },
+    {
+      "FROM": "primavera",
+      "TO": "dresses-by-primavera"
+    },
+    {
+      "FROM": "rated-pg",
+      "TO": "dresses-by-promgirl"
+    },
+    {
+      "FROM": "shailk",
+      "TO": "dresses-by-shail-k"
+    },
+    {
+      "FROM": "handbags",
+      "TO": "prom-purses-and-handbags"
+    },
+    {
+      "FROM": "jewelry",
+      "TO": "prom-jewelry"
+    },
+    {
+      "FROM": "plus-color",
+      "TO": "shop-plus-size-dresses-by-color"
+    },
+    {
+      "FROM": "black-plus",
+      "TO": "plus-size-black-dresses"
+    },
+    {
+      "FROM": "blue-plus",
+      "TO": "plus-size-blue-dresses"
+    },
+    {
+      "FROM": "green-plus",
+      "TO": "plus-size-green-dresses"
+    },
+    {
+      "FROM": "neutral-plus",
+      "TO": "plus-size-neutral-dresses"
+    },
+    {
+      "FROM": "pink-plus",
+      "TO": "plus-size-pink-dresses"
+    },
+    {
+      "FROM": "purple-plus",
+      "TO": "plus-size-purple-dresses"
+    },
+    {
+      "FROM": "red-plus",
+      "TO": "plus-size-red-dresses"
+    },
+    {
+      "FROM": "silver-plus",
+      "TO": "plus-size-silver-dresses"
+    },
+    {
+      "FROM": "white-plus",
+      "TO": "plus-size-white-dresses"
+    },
+    {
+      "FROM": "plus-events",
+      "TO": "shop-plus-size-dresses-by-event"
+    },
+    {
+      "FROM": "plus-cocktail",
+      "TO": "plus-size-cocktail-dresses"
+    },
+    {
+      "FROM": "plus-formal-dresses",
+      "TO": "plus-size-formal-dresses"
+    },
+    {
+      "FROM": "graduation-plus",
+      "TO": "plus-size-graduation-dresses"
+    },
+    {
+      "FROM": "plus-holiday",
+      "TO": "plus-size-holiday-dresses"
+    },
+    {
+      "FROM": "plus-homecoming",
+      "TO": "plus-size-homecoming-dresses"
+    },
+    {
+      "FROM": "plus-party",
+      "TO": "plus-size-party-dresses"
+    },
+    {
+      "FROM": "plus-wedding-guest",
+      "TO": "plus-size-wedding-guest-dresses"
+    },
+    {
+      "FROM": "plus-prom",
+      "TO": "plus-size-prom-dresses"
+    },
+    {
+      "FROM": "plus-size-dresses-under-100",
+      "TO": "plus-dresses-priced-under-100"
+    },
+    {
+      "FROM": "plus-style",
+      "TO": "shop-plus-size-dresses-by-style"
+    },
+    {
+      "FROM": "plus-ballgowns",
+      "TO": "plus-size-ball-gowns"
+    },
+    {
+      "FROM": "plus-a-line",
+      "TO": "plus-size-a-line-dresses"
+    },
+    {
+      "FROM": "plus-embroidery",
+      "TO": "plus-size-embroidery-dresses"
+    },
+    {
+      "FROM": "plus-empire-waist",
+      "TO": "plus-size-empire-waist-dresses"
+    },
+    {
+      "FROM": "plus-halter",
+      "TO": "plus-size-halter-dresses"
+    },
+    {
+      "FROM": "plus-lace",
+      "TO": "plus-size-lace-dresses"
+    },
+    {
+      "FROM": "plus-long",
+      "TO": "plus-size-long-dresses"
+    },
+    {
+      "FROM": "plus-mermaid",
+      "TO": "plus-size-mermaid-dresses"
+    },
+    {
+      "FROM": "plus-print",
+      "TO": "plus-size-print-dresses"
+    },
+    {
+      "FROM": "plus-sequins",
+      "TO": "plus-size-sequin-dresses"
+    },
+    {
+      "FROM": "plus-short",
+      "TO": "plus-size-short-dresses"
+    },
+    {
+      "FROM": "plus-sleeves",
+      "TO": "plus-size-sleeve-dresses"
+    },
+    {
+      "FROM": "plus-sweetheart",
+      "TO": "plus-size-sweetheart-dresses"
+    },
+    {
+      "FROM": "plus-sexy",
+      "TO": "sexy-plus-size-dresses"
+    },
+    {
+      "FROM": "plus-strapless",
+      "TO": "plus-size-strapless-dresses"
+    },
+    {
+      "FROM": "discount-plus-size-dresses-and-gowns-on-sale",
+      "TO": "plus-size-dresses-on-sale"
+    },
+    {
+      "FROM": "plus-viewall",
+      "TO": "plus-size-dresses"
+    },
+    {
+      "FROM": "promdresses-by-price",
+      "TO": "shop-dresses-by-price"
+    },
+    {
+      "FROM": "promdresses-100-200",
+      "TO": "dresses-priced-100-200"
+    },
+    {
+      "FROM": "promdresses-200-300",
+      "TO": "dresses-priced-200-300"
+    },
+    {
+      "FROM": "promdresses-300-400",
+      "TO": "dresses-priced-300-400"
+    },
+    {
+      "FROM": "promdresses-400-500",
+      "TO": "dresses-priced-400-500"
+    },
+    {
+      "FROM": "promdresses-500-plus",
+      "TO": "dresses-priced-over-500"
+    },
+    {
+      "FROM": "promdresses-under-100",
+      "TO": "dresses-priced-under-100"
+    },
+    {
+      "FROM": "under-50",
+      "TO": "dresses-priced-under-50"
+    },
+    {
+      "FROM": "shoes",
+      "TO": "shop-prom-shoes-by-type"
+    },
+    {
+      "FROM": "closedtoe",
+      "TO": "closed-toe-prom-shoes"
+    },
+    {
+      "FROM": "highheels",
+      "TO": "prom-high-heels"
+    },
+    {
+      "FROM": "opentoe",
+      "TO": "open-toe-prom-shoes"
+    },
+    {
+      "FROM": "shortheel",
+      "TO": "low-heel-prom-shoes"
+    },
+    {
+      "FROM": "viewall-shoes",
+      "TO": "prom-shoes"
+    },
+    {
+      "FROM": "styles_and_trends",
+      "TO": "shop-dresses-by-style"
+    },
+    {
+      "FROM": "a_line",
+      "TO": "a-line-dresses"
+    },
+    {
+      "FROM": "babydoll",
+      "TO": "babydoll-dresses"
+    },
+    {
+      "FROM": "back-detail",
+      "TO": "statement-back-dresses"
+    },
+    {
+      "FROM": "ball_gown",
+      "TO": "ball-gowns"
+    },
+    {
+      "FROM": "budget-dresses",
+      "TO": "prom-dresses-under-200"
+    },
+    {
+      "FROM": "classic-prom",
+      "TO": "classic-prom-dresses"
+    },
+    {
+      "FROM": "cocktail",
+      "TO": "cocktail-dresses"
+    },
+    {
+      "FROM": "corset",
+      "TO": "corset-dresses"
+    },
+    {
+      "FROM": "cut-outs",
+      "TO": "dresses-with-cut-outs"
+    },
+    {
+      "FROM": "embroidered",
+      "TO": "dresses-with-embroidery"
+    },
+    {
+      "FROM": "empire_waist",
+      "TO": "empire-waist-dresses"
+    },
+    {
+      "FROM": "fit-flare",
+      "TO": "fit-and-flare-dresses"
+    },
+    {
+      "FROM": "halter",
+      "TO": "halter-dresses"
+    },
+    {
+      "FROM": "high-low",
+      "TO": "high-low-dresses"
+    },
+    {
+      "FROM": "illusion",
+      "TO": "illusion-dresses"
+    },
+    {
+      "FROM": "knee-length",
+      "TO": "knee-length-dresses"
+    },
+    {
+      "FROM": "lace",
+      "TO": "lace-dresses"
+    },
+    {
+      "FROM": "long",
+      "TO": "long-dresses"
+    },
+    {
+      "FROM": "low-v-neck",
+      "TO": "low-v-neck-dresses"
+    },
+    {
+      "FROM": "mermaid",
+      "TO": "mermaid-dresses"
+    },
+    {
+      "FROM": "metallic-glitter",
+      "TO": "metallic-glitter-dresses"
+    },
+    {
+      "FROM": "off-the-shoulder",
+      "TO": "off-the-shoulder-dresses"
+    },
+    {
+      "FROM": "one_shoulder",
+      "TO": "one-shoulder-dresses"
+    },
+    {
+      "FROM": "open_back",
+      "TO": "open-back-dresses"
+    },
+    {
+      "FROM": "pastel",
+      "TO": "pastel-dresses"
+    },
+    {
+      "FROM": "pocket",
+      "TO": "dresses-with-pockets"
+    },
+    {
+      "FROM": "print-dresses-and-floral-prom-dresses",
+      "TO": "print-dresses"
+    },
+    {
+      "FROM": "sequins",
+      "TO": "sequin-dresses"
+    },
+    {
+      "FROM": "sleek",
+      "TO": "sleek-dresses"
+    },
+    {
+      "FROM": "sleeves-dresses",
+      "TO": "dresses-with-sleeves"
+    },
+    {
+      "FROM": "strapless",
+      "TO": "strapless-dresses"
+    },
+    {
+      "FROM": "sweetheart",
+      "TO": "dresses-with-sweatheart-necklines"
+    },
+    {
+      "FROM": "two-piece",
+      "TO": "two-piece-dresses"
+    },
+    {
+      "FROM": "v-neck",
+      "TO": "v-neck-dresses"
+    },
+    {
+      "FROM": "viewall-shoes",
+      "TO": "dresses"
+    }
+  ]
